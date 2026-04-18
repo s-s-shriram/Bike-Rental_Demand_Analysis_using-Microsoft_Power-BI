@@ -1,5 +1,9 @@
 # 🚲 Bike Rental Demand Analysis using Power BI
 This project focuses on analyzing bike rental demand patterns using data visualization techniques
+
+
+
+
 # 📌 Project Overview
 
 This project focuses on analyzing bike rental demand patterns using data visualization techniques. The analysis is performed using Microsoft Power BI to understand how different factors such as time, season, and weather conditions influence bike rental usage.
